@@ -39,7 +39,9 @@ git clone https://github.com/SanskritiSingh-Dev/Basic-React-Product-Card.git
 3. npm run dev
 4. open the browser and paste the link from the terminal
 
-**🌟 Why Vite Over CRA (Create React App)?**
+---
+
+## 🌟 Why Vite Over CRA (Create React App)?
 
 ✅ Faster Development:
 Vite starts instantly and performs hot-reloading faster than CRA.
